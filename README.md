@@ -9,7 +9,7 @@ within your lfe module to render a web page.
 Quick start
 ===========
 1. make sure you have LFE installed (https://github.com/rvirding/lfe)
-2. make sure you have nitrogen installed (https://nitrojenproject.com)
+2. make sure you have nitrogen installed (https://nitrogenproject.com)
 
 If you just want to start using nitrogen code with LFE, just make your regular
 nitrogen app, and copy  **`wf.lfe`**  to your include path. Then do a
